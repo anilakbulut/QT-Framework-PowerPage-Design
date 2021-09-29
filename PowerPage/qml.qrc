@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Icons/Line 2.png</file>
+        <file>Icons/Spreying System Icon.png</file>
+        <file>image/avionics.png</file>
+        <file>image/Avionics1.png</file>
+        <file>image/Background.png</file>
+        <file>image/Comminication.png</file>
+        <file>image/Dock Background.png</file>
+        <file>image/Dock Container.png</file>
+        <file>image/GlobalNavigationSystem.png</file>
+        <file>image/GNC.png</file>
+        <file>image/GreentTick.png</file>
+        <file>image/images.png</file>
+        <file>image/LeftComms.png</file>
+        <file>image/Line 1.png</file>
+        <file>image/map 1.png</file>
+        <file>image/OrangeTick.png</file>
+        <file>image/Overview.png</file>
+        <file>image/Overview1.png</file>
+        <file>image/OverviewAlt.png</file>
+        <file>image/Overwiew.png</file>
+        <file>image/Power.png</file>
+        <file>image/Power1.png</file>
+        <file>image/Radar.png</file>
+        <file>image/RadarSystem.png</file>
+        <file>image/RedTick.png</file>
+        <file>image/RightComms.png</file>
+        <file>image/SettingAvionics.png</file>
+        <file>image/SettingComminicationLeft.png</file>
+        <file>image/SettingComminicationRight.png</file>
+        <file>image/SettingGlobalNavigationSystem.png</file>
+        <file>image/SettingPower.png</file>
+        <file>image/SettingRadarSystem.png</file>
+        <file>image/SettingRadarSystem2.png</file>
+        <file>image/SettingSpreyingSystem.png</file>
+        <file>image/SettingSpreyingSystem2.png</file>
+        <file>image/SpreyingSystem.png</file>
+        <file>image/resumemission.png</file>
+        <file>image/returnmission.png</file>
+        <file>HomeScreen/HomeScreen.qml</file>
+        <file>Assets/button.png</file>
+        <file>image/radarr.png</file>
+        <file>image/transparentTick.png</file>
+        <file>image/mission.png</file>
+        <file>Icons/Line 1.png</file>
+    </qresource>
+</RCC>
